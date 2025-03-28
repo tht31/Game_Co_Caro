@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1743170717 source:d:\file code test\game_co_caro\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"graphics.h"
+	"defs.h"
+	"logic.h"
+
+1743170615 d:\file code test\game_co_caro\graphics.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"defs.h"
+	"logic.h"
+
+1743139104 d:\file code test\game_co_caro\defs.h
+
+1743169030 d:\file code test\game_co_caro\logic.h
+	<ctime>
+
